@@ -40,9 +40,8 @@ h. Display a 12-week weight projection using matplotlib
 - Calorie targets can be approximated using simple greedy selection
 - Data cleaning is essential to avoid type errors and incorrect calculations
 
+5. How to Run
 
-   5. How to Run
- 
 - save both app.py and daily_food_nutrition_datas.csv into the same folder
 - open a code editor with python installed 
 - import the folder with the previous files into the code editor.
