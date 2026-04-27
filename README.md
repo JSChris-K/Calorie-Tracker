@@ -1,10 +1,10 @@
 Calorie Tracker & Meal Recommendation App
 
-	1. Problem & User
+    1. Problem & User
 
 This project is designed to help individuals estimate their daily calorie needs and receive simple meal recommendations. It is intended for users who want a quick, personalized diet plan based on basic health paramaters.
 
-	2. Data
+    2. Data
 
 The dataset used is a food nutrition dataset containing common food items and their nutritional values.
 
@@ -19,7 +19,7 @@ c. Key fields:
   - Fat (g)
   - Meal_Type (Breakfast, Lunch, Dinner)
 
-	3. Methods
+     3. Methods
 
 The application is built using Python and Streamlit. The main steps of the program include:
 
@@ -32,14 +32,14 @@ f. Generate meal recommendations (max 3 items per meal) as to prevent the system
 g. Calculate total nutritional values for each meal
 h. Display a 12-week weight projection using matplotlib
 
-	4. Key Findings
+  4. Key Findings
 
 - The app can generate structured meal plans split into breakfast, lunch, and dinner
 - Keto filtering significantly reduces available food options
 - Calorie targets can be approximated using simple greedy selection
 - Data cleaning is essential to avoid type errors and incorrect calculations
 
-	5. How to Run
+     5. How to Run
 - save both app.py and daily_food_nutrition_datas.csv into the same folder
 - open a code editor with python installed 
 - import the folder with the previous files into the code editor.
