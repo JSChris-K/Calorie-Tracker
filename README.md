@@ -1,6 +1,6 @@
 Calorie Tracker & Meal Recommendation App
 
-    1. Problem & User
+   1. Problem & User
 
 This project is designed to help individuals estimate their daily calorie needs and receive simple meal recommendations. It is intended for users who want a quick, personalized diet plan based on basic health paramaters.
 
@@ -18,8 +18,8 @@ c. Key fields:
   - Carbohydrates (g)
   - Fat (g)
   - Meal_Type (Breakfast, Lunch, Dinner)
-
-     3. Methods
+  
+    3. Methods
 
 The application is built using Python and Streamlit. The main steps of the program include:
 
