@@ -12,7 +12,9 @@ The intended users are businesses and service providers seeking a quick, accessi
 The dataset used is a food nutrition dataset containing common food items and their nutritional values.
 
 a. Source: Provided dataset from Kaggle(daily_food_nutrition_dataset.csv)
+
 b. Access date: [24 April 2026]
+
 c. Key fields:
 
   - Food_Item
