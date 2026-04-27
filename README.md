@@ -4,6 +4,8 @@ Calorie Tracker & Meal Recommendation App
 
 This project is designed to help individuals estimate their daily calorie needs and receive simple meal recommendations. It is intended for users who want a quick, personalized diet plan based on basic health paramaters.
 
+
+
     2. Data
 
 The dataset used is a food nutrition dataset containing common food items and their nutritional values.
@@ -19,7 +21,8 @@ c. Key fields:
   - Fat (g)
   - Meal_Type (Breakfast, Lunch, Dinner)
   
-    3. Methods
+  
+      3. Methods
 
 The application is built using Python and Streamlit. The main steps of the program include:
 
