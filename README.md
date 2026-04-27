@@ -2,7 +2,9 @@ Calorie Tracker & Meal Recommendation App
 
    1. Problem & User
 
-This project is designed to help individuals estimate their daily calorie needs and receive simple meal recommendations. It is intended for users who want a quick, personalized diet plan based on basic health paramaters.
+Many businesses, such as gyms and meal prep services, lack simple tools to quickly estimate customers’ daily calorie needs and provide basic nutrition guidance. This project addresses that gap by offering an easy-to-use calorie calculator that translates user data into practical recommendations.
+
+The intended users are businesses and service providers seeking a quick, accessible way to deliver personalized dietary insights to their customers without requiring advanced nutritional expertise.
 
 
    2. Data
